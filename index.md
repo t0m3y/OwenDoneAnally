@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Professional Sponsorship by:
 
-![Do It Like Larry](geterdone.gif)
+![Do It Like Larry](https://media1.tenor.com/images/d223cbd8a1ba44ea98cf9f18d2d3b312/tenor.gif?itemid=9764034)
 
 ```markdown
 Syntax highlighted code block
