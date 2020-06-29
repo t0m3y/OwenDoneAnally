@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Professional Sponsorship by:
 
-<div class="tenor-gif-embed" data-postid="9764034" data-share-method="host" data-width="100%" data-aspect-ratio="1.3333333333333333"><a href="https://tenor.com/view/larry-the-cable-guy-gif-9764034">Get Er Done GIF</a> from <a href="https://tenor.com/search/larry-gifs">Larry GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[Image](geterdone.gif)
 
 ```markdown
 Syntax highlighted code block
